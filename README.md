@@ -1,15 +1,15 @@
-# End-to-End Demonstration of Exp. Group B Workflow
+# End-to-End Demonstration of Exp. Group A Workflow
 
 ## Summary
 We are now at the stage where it is possible to conduct an end-to-end demonstration of the models and model couplings
-required for IM3 Exp. Group B experiments. This metarepository is meant to be a landing place for that
+required for IM3 Exp. Group A experiments. This metarepository is meant to be a landing place for that
 demonstration. The basic idea is that we should work off of the wiring diagram below and actually go through
 the process of connecting the models together. At this stage all the component models are producing at least sample
 output datasets. Those sample outputs are sufficient for this demonstration as the purpose is to understand which
 couplings and data passes are complete or at least have been tested and which still need more development.
 
 <p align="center">
-  <img src="experiment_diagram/experiment-B-N6_interconnect.png" />
+  <img src="experiment_diagram/experiment-A-N6_interconnect.png" />
 </p>
 
 For the sake of the demonstration we will use the RCP 8.5 "hotter" climate forcing with the SSP5 socioeconomic
@@ -17,7 +17,7 @@ forcing: rcp85hotter_ssp5. Please use this scenario name in your output director
 that is not from the rcp85hotter_ssp5 scenario then just label your output directory "sample_data". If your model only
 runs for a single year then use the year 2030 for testing.
 
-Please store your data for this demonstration on PNNL's Institutional Computing (PIC) at: `/pic/projects/im3/exp_group_b_test`
+Please store your data for this demonstration on PNNL's Institutional Computing (PIC) at: `/pic/projects/im3/exp_group_a_test`
 
 ## Legend
 🟢 = Completed  

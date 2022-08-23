@@ -27,15 +27,18 @@ Please store your data for this demonstration on PNNL's Institutional Computing 
 ## Contributing models
 | Model | Status | Version | Model Source Code |
 |:-:|:-:|:-:|:--|
-| WRF | 🟢 | v4.2.1 | [Code](https://github.com/IMMM-SFA/wrf_historical) |
-| Population | 🟡 | TBD | TBD |
-| Xanthos | 🟡 | v2.4.1 | [Code](https://github.com/JGCRI/xanthos) |
-| Helios | 🟡 | v1.0.0 | TBD |
-| Osiris | 🟡 | TBD | [Code](https://github.com/JGCRI/osiris) |
+| U.S. Gridded Population Model | 🟢 | v1.1.1 | [Code](https://github.com/IMMM-SFA/population_gravity) |
+| SELECT | 🟡 | TBD | [Code](https://github.com/IMMM-SFA/select) |
+| Demeter | 🟢 | v1.2.2 | [Code](https://github.com/JGCRI/demeter) |
+| AutoBEM | 🟢 | TBD | [Code](https://github.com/IMMM-SFA) |
 | GCAM-USA | 🟡 | v5.3 | [Code](https://stash.pnnl.gov/projects/JGCRI/repos/gcam-core/browse?at=refs%2Fheads%2Fzk%2Ffeature%2Fgcam-usa-im3) |
-| TELL | 🟡 | v1.0 | [Code](https://github.com/IMMM-SFA/tell) |
-| CERF | 🟡 | v2.0.9 | [Code](https://github.com/IMMM-SFA/cerf) |
-| GO | 🟡 | TBD | [Code](https://github.com/IMMM-SFA/IM3_WECC) |
+| EnergyPlus | 🟢 | TBD | [Code](https://github.com/IMMM-SFA) |
+| LBNL-BEM | 🟡 | TBD | [Code](https://github.com/IMMM-SFA) |
+| WRF-UCM | 🟡 | TBD | [Code](https://github.com/IMMM-SFA) |
+| Urban-LMC | 🟡 | TBD | [Code](https://github.com/IMMM-SFA) |
+| PMA | 🟡 | TBD | [Code](https://github.com/IMMM-SFA) |
+| NATURF | 🟡 | TBD | [Code](https://github.com/IMMM-SFA/naturf) |
+| CLM-U | 🟡 | TBD | [Code](https://github.com/IMMM-SFA) |
 
 ## Forcing data
 For this demonstration we'll use the IM3 WRF and population dynamics runs for the rcp85hotter_ssp5 scenario. Details
